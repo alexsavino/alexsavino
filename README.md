@@ -3,7 +3,7 @@
 
 My name is Alex. I'm...
 
-🔍 A recent graduate from Columbia University with a major in Astrophysics and minors in Math-CS and Mechanical Engineering.
+🔍 A recent graduate (2024) from Columbia University with a major in Astrophysics and minors in Math-CS and Mechanical Engineering.
 
 💻 Teaching myself to code through personal projects on GitHub, currently focusing mostly on front-end.
 
@@ -22,6 +22,7 @@ IDEs: VSCode, PyCharm, IntelliJ, Xcode
 
 (Tryna collect them all rn.) 
 If you wanna connect/chat/anything, please reach out to me at alexsavino246@gmail.com!
+
 
 <!--
 **alexsavino/alexsavino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
