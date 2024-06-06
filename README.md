@@ -6,24 +6,23 @@
     - 💻 Teaching myself to code through personal projects on GitHub, currently focusing mostly on front-end.
     - 🌱 Interested in collaborating on projects to create cool tools to promote veganism.
     - 🌐 Currently "learning French" and trying to be consistent about Duolingo-ing in Italian (not happening).
+<br></br>
+
+- The things I have experience in:
+    - Frontend:
+        - HTML
+        - CSS
+        - JavaScript
+        - Swift
+    - Backend:
+        - Python (Pandas, PyTorch, Sklearn)
+        - Java
+        - SQL
+    - Frameworks:
+        - SwiftUI
 
 
-The things I have experience in:
-
-- Frontend:
-    - HTML
-    - CSS
-    - JavaScript
-    - Swift
-- Backend Development:
-    - Python (Pandas, PyTorch, Sklearn),
-    - Java,
-    - SQL
-- Frameworks:
-    - SwiftUI
-
-
-(Tryna collect them all rn.) 
+_(Tryna collect them all rn.)_
 If you wanna connect/chat/anything, please reach out to me at alexsavino246@gmail.com!
 
 
