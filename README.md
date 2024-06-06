@@ -3,7 +3,7 @@
 
 - **My name is Alex.** I'm...
     - 🔍 A recent graduate (2024) from Columbia University with a major in Astrophysics and minors in Math-CS and Mechanical Engineering.
-    - 💻 Teaching myself to code through personal projects on GitHub, currently focusing mostly on front-end.
+    - 💻 Teaching myself to code through personal projects housed here, currently focusing mostly on front-end.
     - 🌱 Interested in collaborating on projects to create cool tools to promote veganism.
     - 🌐 Currently "learning French" and trying to be consistent about Duolingo-ing in Italian (not happening).
 <br></br>
