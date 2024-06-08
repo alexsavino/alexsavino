@@ -23,7 +23,7 @@
 
 
 _(Tryna collect them all rn.)_
-If you wanna connect/chat/anything, please reach out to me at alexsavino246@gmail.com!
+If you wanna connect/chat/anything, please reach out to me at alexandra.v.savino@gmail.com!
 
 
 <!--
