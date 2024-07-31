@@ -8,7 +8,7 @@
     - 🌐 Currently "learning French" and trying to be consistent about Duolingo-ing in Italian (it's going alright).
 <br></br>
 
-- The things I have experience in:
+- The things I'm experienced in:
     - Frontend:
         - HTML
         - CSS
