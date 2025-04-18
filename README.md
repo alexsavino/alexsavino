@@ -4,7 +4,6 @@
 - **My name is Alex.** I'm...
     - 🔍 A current CS/ML grad student in at Georgia Tech.
     - 🔍 A recent graduate (2024) from Columbia University with a major in Astrophysics and minors in Math-CS and Mechanical Engineering.
-    - 💻 Improving through personal projects housed here.
     - 🌱 (Interested in collaborating on projects to create cool tools to promote eating plant-based (please reach out)).
     - 🌐 Currently "learning French" and trying to be consistent about Duolingo-ing in Italian.
 <br></br>
